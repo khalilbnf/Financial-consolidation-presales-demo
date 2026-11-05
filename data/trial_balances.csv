@@ -1,0 +1,27 @@
+entity_id,account_code,account_name,category,rate_type,currency,amount
+FR,1000,Cash,asset,closing,EUR,600000
+FR,1100,External receivables,asset,closing,EUR,700000
+FR,1200,Intercompany receivables,asset,closing,EUR,200000
+FR,1300,Investments in subsidiaries,asset,opening,EUR,1400000
+FR,1500,Property and equipment,asset,closing,EUR,400000
+FR,2000,External payables,liability,closing,EUR,-1000000
+FR,3000,Opening equity,equity,opening,EUR,-2000000
+FR,4000,External revenue,revenue,average,EUR,-2000000
+FR,4100,Intercompany revenue,revenue,average,EUR,-500000
+FR,5000,External operating expenses,expense,average,EUR,2200000
+DE,1000,Cash,asset,closing,EUR,400000
+DE,1100,External receivables,asset,closing,EUR,500000
+DE,1500,Property and equipment,asset,closing,EUR,600000
+DE,2000,External payables,liability,closing,EUR,-100000
+DE,2100,Intercompany payables,liability,closing,EUR,-200000
+DE,3000,Opening equity,equity,opening,EUR,-1000000
+DE,4000,External revenue,revenue,average,EUR,-1500000
+DE,5000,External operating expenses,expense,average,EUR,800000
+DE,5100,Intercompany operating expenses,expense,average,EUR,500000
+UK,1000,Cash,asset,closing,GBP,200000
+UK,1100,External receivables,asset,closing,GBP,200000
+UK,1500,Property and equipment,asset,closing,GBP,300000
+UK,2000,External payables,liability,closing,GBP,-100000
+UK,3000,Opening equity,equity,opening,GBP,-500000
+UK,4000,External revenue,revenue,average,GBP,-800000
+UK,5000,External operating expenses,expense,average,GBP,700000

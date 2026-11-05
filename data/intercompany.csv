@@ -1,0 +1,5 @@
+transaction_id,kind,entity_id,counterparty_id,account_code,currency,amount
+SERVICE-001,service,FR,DE,4100,EUR,-500000
+SERVICE-001,service,DE,FR,5100,EUR,500000
+BALANCE-001,balance,FR,DE,1200,EUR,200000
+BALANCE-001,balance,DE,FR,2100,EUR,-200000

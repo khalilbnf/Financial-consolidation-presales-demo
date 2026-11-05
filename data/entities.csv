@@ -1,0 +1,4 @@
+entity_id,name,country,currency,ownership,is_parent
+FR,France Parent SAS,France,EUR,1.0,True
+DE,Germany GmbH,Germany,EUR,0.8,False
+UK,UK Ltd,United Kingdom,GBP,1.0,False
