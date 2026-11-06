@@ -1,4 +1,4 @@
-# French Financial Consolidation Presales Demo
+#Financial Consolidation Presales Demo
 
 A Python and Excel portfolio project demonstrating a simplified multi-entity consolidation workflow including FX translation, intercompany eliminations, minority interests and consolidated financial reporting.
 
